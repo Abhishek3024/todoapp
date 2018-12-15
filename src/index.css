@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +14,37 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.mybutton{
+	margin-top: -5px;
+}
+
+.myCollection{
+	margin-top: 5px;
+    font-family: 'Pacifico', cursive;
+    font-size:16px;
+}
+
+.myTitle{
+    font-family: 'Gamja Flower', cursive;
+    font-size:48px;
+}
+
+.myContent{
+	font-size: 18px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.intro{
+	font-family: 'Pacifico', cursive;	
+	font-size: 16px;
+	margin-top: -5px;
+	margin-bottom: 5px;
+}
+
+.myTitle2{
+    font-family: 'Gamja Flower', cursive;
+    font-size:24px;
+    margin-top: -60px;
 }
